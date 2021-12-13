@@ -1,0 +1,13 @@
+.strong {
+  background-color: black;
+  color: white;
+}
+
+.caution {
+  background-color: Yellow;
+}
+
+.btn {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
